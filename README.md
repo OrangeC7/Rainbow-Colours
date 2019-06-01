@@ -6,3 +6,5 @@ On that note: EPILEPSY WARNING to anyone using this pack, please do not use this
 To download, click the green "Clone or download" button and select "Download ZIP". Don't choose "Open in Dekstop" unless you know what you're doing.
 
 If you need help installing resource packs on your computer, look up a tutorial for your operating system.
+
+Recommended shaderpack: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292876-glsl-acid-shaders
